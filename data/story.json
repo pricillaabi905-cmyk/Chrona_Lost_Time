@@ -1,0 +1,124 @@
+{
+    "1": {
+        "intro": [
+            {"name": "Aria", "text": "I can't marry a man I don't love, for a crown I never asked for.", "color": [107, 76, 239]},
+            {"name": "Aria", "text": "I slipped out through the old temple passage before anyone noticed I was gone.", "color": [107, 76, 239]},
+            {"name": "Aria", "text": "Whatever's out here, it has to be better than being a princess trapped behind palace walls.", "color": [107, 76, 239]}
+        ],
+        "outro": [
+            {"name": "Aria", "text": "A Time Crystal... strange. It felt like it recognized me.", "color": [107, 76, 239]},
+            {"name": "Aria", "text": "I need to keep moving. If they find me, they'll drag me back before I've even begun.", "color": [107, 76, 239]}
+        ]
+    },
+    "2": {
+        "intro": [
+            {"name": "Aria", "text": "My feet are killing me. Just a few minutes by this river, then I'll keep going.", "color": [107, 76, 239]},
+            {"name": "???", "text": "Got you.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "Let GO of me!", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "...You're not who I thought you were.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "You just pulled me into a river! Who even are you?!", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "My mistake. I was expecting an assassin, not-", "color": [90, 140, 220]},
+            {"name": "Caleb", "text": "Never mind. Forget you saw me.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "Wait-! ...Handsome and rude. Exactly what I needed today.", "color": [107, 76, 239]}
+        ],
+        "outro": [
+            {"name": "Caleb", "text": "You're still following me.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "I'm not following you, our paths just keep crossing!", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "Convenient, for someone heading toward the same crystal I am.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "You're looking for the Time Crystals too?", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "I need one to get close to the dragon. I intend to kill it and take what's inside.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "Kill a dragon? Just like that?", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "It's not a request for permission, princess.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "...How did you know I'm-", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "Palace boots. And you walk like someone used to being followed, not like someone who's ever had to run.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "Fine. Since we're apparently going the same way - try not to slow me down.", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "That's my line.", "color": [90, 140, 220]}
+        ]
+    },
+    "3": {
+        "intro": [
+            {"name": "Aria", "text": "Sand for miles. Remind me why I agreed to travel with the dragon-slayer.", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "You didn't agree. You just didn't leave.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "...Fair.", "color": [107, 76, 239]}
+        ],
+        "idris_intro": [
+            {"name": "Idris", "text": "Well, well. The runaway princess and the ghost prince, traveling together. How touching.", "color": [140, 60, 160]},
+            {"name": "Caleb", "text": "Idris. I should have known the Sovereign would send you.", "color": [90, 140, 220]},
+            {"name": "Idris", "text": "He wants the crystal fragment before you reach the dragon. I intend to deliver.", "color": [140, 60, 160]},
+            {"name": "Aria", "text": "The 'Sovereign'? Who's that?", "color": [107, 76, 239]},
+            {"name": "Idris", "text": "Ask your prince. Assuming he lives long enough to tell you.", "color": [140, 60, 160]}
+        ],
+        "idris_victory": [
+            {"name": "Idris", "text": "...You held back.", "color": [140, 60, 160]},
+            {"name": "Caleb", "text": "You're still standing. Don't mistake that for mercy.", "color": [90, 140, 220]},
+            {"name": "Idris", "text": "Careful, prince. Mercy is a hard habit to break once it starts.", "color": [140, 60, 160]},
+            {"name": "Idris", "text": "This isn't over. But maybe it isn't what I thought it was, either.", "color": [140, 60, 160]},
+            {"name": "Aria", "text": "What did he mean, 'the Sovereign'?", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "Someone we'll deal with when the time comes. Keep moving.", "color": [90, 140, 220]}
+        ],
+        "outro": [
+            {"name": "Aria", "text": "You know him. Idris.", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "I know a lot of people I'd rather not.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "You're not going to tell me anything, are you.", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "Not yet.", "color": [90, 140, 220]}
+        ]
+    },
+    "4": {
+        "intro": [
+            {"name": "Aria", "text": "It's freezing. And you don't even look cold.", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "I run warm.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "That's not an answer.", "color": [107, 76, 239]}
+        ],
+        "rowan_intro": [
+            {"name": "Rowan", "text": "Halt. None pass the Ice Court without the Sovereign's word.", "color": [60, 120, 190]},
+            {"name": "Caleb", "text": "Rowan. Still guarding a throne that was never his to protect.", "color": [90, 140, 220]},
+            {"name": "Rowan", "text": "And you're still pretending you're not royalty, Caleb. It doesn't suit you.", "color": [60, 120, 190]},
+            {"name": "Aria", "text": "...Royalty?", "color": [107, 76, 239]},
+            {"name": "Rowan", "text": "If you want through, you'll go through me.", "color": [60, 120, 190]}
+        ],
+        "rowan_victory": [
+            {"name": "Rowan", "text": "...You've gotten stronger. Or I've gotten careless.", "color": [60, 120, 190]},
+            {"name": "Caleb", "text": "Maybe both.", "color": [90, 140, 220]},
+            {"name": "Rowan", "text": "The Sovereign promised us all a kingdom worth ruling. All he's given us is orders.", "color": [60, 120, 190]},
+            {"name": "Rowan", "text": "Ask me again in the spring whose side I'm on. Go. Before I change my mind.", "color": [60, 120, 190]}
+        ],
+        "outro": [
+            {"name": "Aria", "text": "Caleb. Is it true? Are you actually-", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "I'll tell you everything. In the castle. I promise.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "You'd better.", "color": [107, 76, 239]}
+        ]
+    },
+    "5": {
+        "intro": [
+            {"name": "Aria", "text": "This is it. Whatever's waiting for us, it's here.", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "Stay close. This is where it stops being a story and starts being real.", "color": [90, 140, 220]}
+        ],
+        "boss_intro": [
+            {"name": "The Hollow Sovereign", "text": "So. The crystal-bearer finally arrives. And she brought my wayward prince with her.", "color": [70, 20, 90]},
+            {"name": "Aria", "text": "Your prince? Caleb, what is he talking about?", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "He's talking about the throne I walked away from. The one he stole the moment I was gone.", "color": [90, 140, 220]},
+            {"name": "The Hollow Sovereign", "text": "Stole? I merely took what you refused to hold. Give me the crystals, and I'll let the girl live.", "color": [70, 20, 90]},
+            {"name": "Caleb", "text": "Touch her and you'll regret every century you've stolen.", "color": [90, 140, 220]},
+            {"name": "The Hollow Sovereign", "text": "Brave words. Let's see if the Timewyrm agrees.", "color": [70, 20, 90]}
+        ],
+        "boss_victory": [
+            {"name": "Aria", "text": "It's over. The Timewyrm's gone.", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "He isn't. Not yet. Come on - the sanctum's just ahead.", "color": [90, 140, 220]}
+        ],
+        "outro": [
+            {"name": "The Hollow Sovereign", "text": "Impossible. You were nothing. A prince who ran from his own crown!", "color": [70, 20, 90]},
+            {"name": "Caleb", "text": "I ran because I refused to become you. That doesn't mean I forgot how to fight.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "...He really is a prince. The most dangerous one in every timeline, they said. I thought it was a rumor.", "color": [107, 76, 239]},
+            {"name": "The Hollow Sovereign", "text": "The dragon's crystal is MINE. I have waited centuries for it.", "color": [70, 20, 90]},
+            {"name": "Caleb", "text": "The dragon was never yours to take. Aria - the crystal isn't a weapon. It's the dragon's heart. If he takes it, the dragon dies, and every timeline it holds together dies with it.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "Then we don't let him take it. We protect it. Together.", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "...You feel that too? Aria, that's not just courage. You have power of your own. You always did.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "I'm not weak. I never was. I was just never allowed to find out.", "color": [107, 76, 239]},
+            {"name": "Rowan", "text": "About time someone put him in his place.", "color": [60, 120, 190]},
+            {"name": "Idris", "text": "Didn't think I'd say this, but... good work, prince. Both of you.", "color": [140, 60, 160]},
+            {"name": "Caleb", "text": "Aria. Whatever happens next - throne, timeline, whatever's left of my old life - I'd rather face it with you than rule it alone.", "color": [90, 140, 220]},
+            {"name": "Aria", "text": "Then don't rule it alone. Rule it with me.", "color": [107, 76, 239]},
+            {"name": "Caleb", "text": "...I'd like that.", "color": [90, 140, 220]}
+        ]
+    }
+}
